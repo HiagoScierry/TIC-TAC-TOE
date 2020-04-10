@@ -1,4 +1,4 @@
-import Jogo
+from Drive import Jogo
 from os import system
 
 
